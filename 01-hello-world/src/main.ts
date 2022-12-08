@@ -1,4 +1,4 @@
-import { Square } from './Square.js';
+import { Square } from './src/Square.js';
 import {
   isReady,
   shutdown,
